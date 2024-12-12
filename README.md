@@ -17,7 +17,6 @@ This project is sponsored by Virginia Sea Grant and aims to evaluate the perform
 -  **draft_for_VASG.ipynb**: This file serves as the base for all the code used to make figures and pull data for the project.
  ### Poster Description
 The poster titled "Shoreline Transformation: Forward-Looking Nature-Based Adaptation Strategies" presents research on the efficacy of NNBFs in coastal protection. It includes:
-- **Introduction**: Discusses the emergence of NNBFs as adaptive coastal protection solutions and the need for evaluating their performance.
 - **Controlled Conditions**: Describes field experiments conducted before and after the installation of NNBFs, including data collection methods and results.
 - **Exposed Conditions**: Details the deployment of wave loggers and the analysis of wave events in different transects.
 - **Figures and Photos**: Visual representations of the study sites, experimental setups, and data analysis results. 
