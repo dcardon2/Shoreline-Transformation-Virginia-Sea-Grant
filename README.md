@@ -12,8 +12,8 @@ This research focuses on evaluating the performance of NNBFs in attenuating wave
 ### Project Overview 
 This project is sponsored by Virginia Sea Grant and aims to evaluate the performance of Natural and Nature-Based Features (NNBF) in attenuating waves and enhancing coastal resilience. One deliverable produced by this project is the poster presented at AGU24, which provides a comprehensive overview of the research findings. 
 ### Repository Structure 
--  **VASG_canal_final.ipynb**: This Jupyter notebook contains the graphs and figures generated for the 'controlled' condition as noted in the poster. It includes data analysis and visualizations related to the canal environment.
--  **VASG_marsh_final.ipynb**: This Jupyter notebook (currently named 'draft_marsh') will be updated with the final code and analysis for the 'exposed' condition, focusing on the marsh environment.
+-  **VASG_canal_final.html**: This Jupyter notebook contains the graphs and figures generated for the 'controlled' condition as noted in the poster. It includes data analysis and visualizations related to the canal environment. Please download this file for best visualization.
+-  **VASG_marsh_final.html**: This Jupyter notebook (currently named 'draft_marsh.ipynb') will be updated with the final code and analysis for the 'exposed' condition, focusing on the marsh environment.
 -  **draft_for_VASG.ipynb**: This file serves as the base for all the code used to make figures and pull data for the project.
  ### Poster Description
 The poster titled "Shoreline Transformation: Forward-Looking Nature-Based Adaptation Strategies" presents research on the efficacy of NNBFs in coastal protection. It includes:
