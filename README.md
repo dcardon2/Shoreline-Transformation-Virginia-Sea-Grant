@@ -16,8 +16,8 @@ This research focuses on evaluating the performance of NNBFs in attenuating wave
 ### Project Overview 
 This project is sponsored by Virginia Sea Grant and aims to evaluate the performance of Natural and Nature-Based Features (NNBF) in attenuating waves and enhancing coastal resilience. One deliverable produced by this project is the poster presented at AGU24, which provides a comprehensive overview of the research findings. 
 ### Repository Structure 
--  **VASG_canal_final.html**: This Jupyter notebook contains the graphs and figures generated for the 'controlled' condition as noted in the poster. It includes data analysis and visualizations related to the Whittaker Creek Canal. Please download this file for best visualization.
--  **VASG_marsh_final.html**: This Jupyter notebook contains the graphs and figures generated for the 'exposed' condition as noted in the poster, focusing on the Captain Sinclair’s Recreational Area. 
+-  **notebook_whittaker.html**: This Jupyter notebook contains the graphs and figures generated for the 'controlled' condition as noted in the poster. It includes data analysis and visualizations related to the Whittaker Creek Canal. Please download this file for best visualization.
+-  **notebook_CSRA.html**: This Jupyter notebook contains the graphs and figures generated for the 'exposed' condition as noted in the poster, focusing on the Captain Sinclair’s Recreational Area. 
  ### Poster Description
 The poster titled "Shoreline Transformation: Forward-Looking Nature-Based Adaptation Strategies" presents research on the efficacy of NNBFs in coastal protection. It includes:
 - **Controlled Conditions**: Describes field experiments conducted before and after the installation of NNBFs, including data collection methods and results.
